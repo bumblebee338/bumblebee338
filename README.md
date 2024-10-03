@@ -35,10 +35,10 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 <!-- </div> -->
 <a href="https://github.com/bumblebee338?tab=repositories"><img align="center" width="56%" src="https://github-readme-stats.vercel.app/api?username=bumblebee338&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=algolia" alt="Mohit's github stats" /></a>
 <a href="https://github.com/bumblebee338?tab=repositories"><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bumblebee338&layout=compact&langs_count=6&theme=algolia" alt="Top Languages"/></a>
-
+<!-- 
 [![Mohit's github streak](https://github-readme-streak-stats.herokuapp.com/?user=bumblebee338&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Mohit's github trophy](https://github-profile-trophy.vercel.app/?username=bumblebee338&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+-->
 <!-- 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=bumblebee338&theme=blue-green)
 
