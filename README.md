@@ -25,7 +25,7 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 
  - 💻 *Backend Development and Database Management*  <img align="center" height="30" src="https://img.icons8.com/color/144/000000/nodejs.png"/> <img align="center" height="30" src="https://user-images.githubusercontent.com/54148372/133832950-54286b43-22c9-4bb0-9ad2-21b5ba3b068e.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/firebase.png"/> <img align="center" height="30" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png" /> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/mongodb.png"/>
 
-📌 Here's a link to my [Portfolio](https://mohit-raj-355.web.app/)
+📌 Here's a link to my [Portfolio](https://bumblebee.in.net/)
 
 <hr>
 
@@ -33,16 +33,11 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 <!-- <div align="center"> -->
 
 <!-- </div> -->
-<a href="https://github.com/bumblebee338?tab=repositories"><img align="center" width="56%" src="https://github-readme-stats.vercel.app/api?username=bumblebee338&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=algolia" alt="Mohit's github stats" /></a>
+<a href="https://github.com/bumblebee338?tab=repositories"><img align="center" width="56%" src="https://github-readme-stats.vercel.app/api?username=bumblebee338&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=algolia" alt="Rahul's github stats" /></a>
 <a href="https://github.com/bumblebee338?tab=repositories"><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bumblebee338&layout=compact&langs_count=6&theme=algolia" alt="Top Languages"/></a>
-<!-- 
-[![Mohit's github streak](https://github-readme-streak-stats.herokuapp.com/?user=bumblebee338&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Mohit's github trophy](https://github-profile-trophy.vercel.app/?username=bumblebee338&row=1)](https://github.com/ryo-ma/github-profile-trophy)
--->
 <!-- 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=bumblebee338&theme=blue-green)
 
-[![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=bumblebee338&theme=blue-green)](https://github.com/bumblebee338/github-readme-stats)
  -->
 ## Most valuable repo
 
