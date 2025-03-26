@@ -42,10 +42,15 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 
 ## Connect with me  
 <div align="center">
-<a href="https://dev.to/rkrider" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+<a href="https://medium.com/@rahulomnitrics" target="_blank">
+<img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="margin-bottom: 5px;" />
+
 </a>
 <a href="https://www.linkedin.com/in/rahulkumar338/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</a>
+<a href="https://unsplash.com/@bumblebee_338" target="_blank">
+<img src="https://img.shields.io/badge/Unsplash-%23000000.svg?&style=for-the-badge&logo=unsplash&logoColor=white" alt="Unsplash" style="margin-bottom: 5px;" />
 </a>
 </div>
