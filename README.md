@@ -39,9 +39,6 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=bumblebee338&theme=blue-green)
 
  -->
-## Most valuable repo
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bumblebee338&repo=BookCart-frontend&theme=midnight-purple)](https://github.com/bumblebee338/BookCart-frontend)
 
 ## Connect with me  
 <div align="center">
