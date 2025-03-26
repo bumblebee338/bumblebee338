@@ -9,7 +9,7 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 ![Profile views](https://komarev.com/ghpvc/?username=bumblebee338&color=brightgreen) [![GitHub followers](https://img.shields.io/github/followers/bumblebee338.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bumblebee338?tab=followers)
 
 
-📌 I am **Rahul Kumar**, *Software Engineer at Gupshup Technology India PVT LTD, Mumbai*. Completed my `B.Tech in Computer Science and Engineering` from *Indian Institute of Information Technology Kalyani* in July 2022.
+📌 I am **Rahul Kumar**, *Frontend Engineer at Levo.ai, Hyderabad*. Completed my `B.Tech in Computer Science and Engineering` from *Indian Institute of Information Technology Kalyani* in July 2022.
 
 📌 I am interested in learning new technologies and building exciting real-world projects.
 
